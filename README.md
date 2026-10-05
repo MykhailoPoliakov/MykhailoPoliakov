@@ -14,17 +14,12 @@ CS student at KDG in Belgium.
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;&nbsp;
 ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+## Main Projects
 
-## Main projects
+| Project                                                    | Description                                                           | Stack          |
+| ---------------------------------------------------------- | --------------------------------------------------------------------- | -------------- |
+| **[MiChess](https://github.com/MykhailoPoliakov/MiChess)** | Chess engine built from scratch with NNUE evaluation                  | `Rust`         |
+| **[UniMate](https://github.com/MykhailoPoliakov/unimate)** | University companion app for schedules, resources, news & communities | `React Native` |
+| **[Lucy](https://github.com/MykhailoPoliakov/Lucy)**       | Local AI voice assistant with wake-word integration                   | `Python`       |
 
-### [MiChess](https://github.com/MykhailoPoliakov/MiChess)
-Deep chess engine written from scratch in Rust<br> `Rust`
-
-
-### [UniMate](https://github.com/MykhailoPoliakov/unimate)
-Your university, in one app — schedule, links, news and student communities.<br> `React Native`
-
-
-### [Lucy](https://github.com/MykhailoPoliakov/Lucy)
-Local AI voice assistant with wake-word integration<br> `Python`
 
