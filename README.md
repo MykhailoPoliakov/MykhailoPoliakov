@@ -1,66 +1,29 @@
-<div align="center">
-   <h2 align="center">Yo 👋, I'm Maks Razumovsky 👨‍💻</h2>
-</div>
+# Hi, I'm Mykhailo 👋
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true%random=false&width=435&lines=Full-Stack+Developer;Love+Open+Source+Apps;Based+in+Belgium)](https://git.io/typing-svg)
+CS student at KDG in Belgium. I learn by building things from scratch, mostly in Rust and Python, with a growing obsession for low-level stuff and Linux.
 
+## Tech stack
 
-class Developer {
-   constructor() {
-      this.name = "Maks Razumovskyi"
-      this.about = "Applied Computer Science student building real-world software and exploring new technologies"
-      this.techStack = ["HTML", "CSS", "JavaScript", "React JS", "NodeJS", "ExpressJS", "Python"]
-   }
-
-   bio() {
-      console.log(`Hello, my name is ${this.name}\n${this.about}\nMy Stack: ${this.techStack.join(', ')}`)
-   }
-}
-
-const me = new Developer()
-me.bio()
-
-
-<br>
-<div align="center">
-   <h1 align="center">Ｔｅｃｈ Ｓｔａｃｋ</h1>
-
-
-🕒 Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-📓 Languages
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell](https://img.shields.io/badge/shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-📚 Frameworks, Platforms and Libraries
+## Projects
 
-![React](https://img.shields.io/badge/react-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+| Project | What it is | Stack |
+|---|---|---|
+| [MiOS](https://github.com/MykhailoPoliakov/MiOS) | An operating system written from scratch | Rust |
+| [MiChess](https://github.com/MykhailoPoliakov/MiChess) | Terminal chess: pick your side and play against a bot | Rust |
+| [MiRubik](https://github.com/MykhailoPoliakov/MiRubik) | Interactive 3D Rubik's cube | Python |
+| [MiDurak](https://github.com/MykhailoPoliakov/MiDurak) | Durak card game against a bot | Python |
+| [unimate](https://github.com/MykhailoPoliakov/unimate) | Useful info and tools for KDG students (WIP) | JavaScript |
 
-☁️ Hosting/SaaS
+## Currently
 
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-💾 Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br>
-<h1 align="center">Ｆｏｌｌｏｗ ｍｅ</h1>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxim.razumovsky@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/makksaw)
-
-![](https://komarev.com/ghpvc/?username=Makksaw)
-</div>
+- 🦀 Working on MiOS and learning how operating systems actually work
+- 🐧 Getting comfortable with Linux workflows and the shell
+- 🎓 Finding my feet in my first year at KDG
