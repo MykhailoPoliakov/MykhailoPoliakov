@@ -4,7 +4,7 @@ CS student at KDG in Belgium.
 
 ## Tech stack
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;&nbsp;
+![Rust](https://img.shields.io/badge/rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
 ![Shell](https://img.shields.io/badge/shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)&nbsp;&nbsp;
@@ -15,10 +15,16 @@ CS student at KDG in Belgium.
 ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-## Main Projects
+## Main projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [MiChess](https://github.com/MykhailoPoliakov/MiChess) | Deep chess engine  | Rust |
-| [UniMate](https://github.com/MykhailoPoliakov/unimate) | Useful info and tools for students  | React Native |
-| [Lucy](https://github.com/MykhailoPoliakov/Lucy) | Local Ai voice assistant | Python |
+### [MiChess](https://github.com/MykhailoPoliakov/MiChess)
+Deep chess engine<br>
+`Rust`
+
+### [UniMate](https://github.com/MykhailoPoliakov/unimate)
+Useful info and tools for students<br>
+`React Native`
+
+### [Lucy](https://github.com/MykhailoPoliakov/Lucy)
+Local AI voice assistant<br>
+`Python`
