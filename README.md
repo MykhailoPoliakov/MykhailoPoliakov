@@ -1,6 +1,6 @@
 # Hi, I'm Mykhailo Poliakov
 
-CS student at KDG in Belgium. I learn by building things from scratch, mostly in Rust and Python, with a growing obsession for low-level stuff and Linux.
+CS student at KDG in Belgium. 
 
 ## Tech stack
 
@@ -11,15 +11,18 @@ CS student at KDG in Belgium. I learn by building things from scratch, mostly in
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-## Projects
+## Main Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [MiOS](https://github.com/MykhailoPoliakov/MiOS) | An operating system written from scratch | Rust |
-| [MiChess](https://github.com/MykhailoPoliakov/MiChess) | Terminal chess: pick your side and play against a bot | Rust |
-| [MiRubik](https://github.com/MykhailoPoliakov/MiRubik) | Interactive 3D Rubik's cube | Python |
-| [unimate](https://github.com/MykhailoPoliakov/unimate) | Useful info and tools for KDG students (WIP) | JavaScript |
+| [MiChess](https://github.com/MykhailoPoliakov/MiChess) | Deep chess engine  | Rust |
+| [UniMate](https://github.com/MykhailoPoliakov/unimate) | Useful info and tools for students  | React Native |
+| [Lucy](https://github.com/MykhailoPoliakov/Lucy) | Local Ai voice assistant | Python |
+
+
 
 ## Currently
 
