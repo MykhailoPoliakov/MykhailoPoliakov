@@ -18,13 +18,13 @@ CS student at KDG in Belgium.
 ## Main projects
 
 ### [MiChess](https://github.com/MykhailoPoliakov/MiChess)
-Deep chess engine<br>
-`Rust`
+Deep chess engine written from scratch in Rust<br> `Rust`
+
 
 ### [UniMate](https://github.com/MykhailoPoliakov/unimate)
-Useful info and tools for students<br>
-`React Native`
+Your university, in one app — schedule, links, news and student communities.<br> `React Native`
+
 
 ### [Lucy](https://github.com/MykhailoPoliakov/Lucy)
-Local AI voice assistant<br>
-`Python`
+Local AI voice assistant with wake-word integration<br> `Python`
+
