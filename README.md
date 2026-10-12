@@ -19,6 +19,6 @@ CS student at KDG in Belgium.
 | ---------------------------------------------------------- | --------------------------------------------------------------------- | -------------- |
 | **[MiChess](https://github.com/MykhailoPoliakov/MiChess)** | Chess engine built from scratch with NNUE evaluation                  | `Rust`         |
 | **[UniMate](https://github.com/MykhailoPoliakov/unimate)** | University companion app for schedules, resources, news & communities | `React Native` |
-| **[Lucy](https://github.com/MykhailoPoliakov/Lucy)**       | Local AI voice assistant with wake-word integration                   | `Python`       |
+| **[BashPasswdStealer](https://github.com/MykhailoPoliakov/BashPasswdStealer)**       | Bash script to steal password when user enters passwd               | `Bash`       |
 
 
